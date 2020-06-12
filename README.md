@@ -1,4 +1,5 @@
-# online_shop
+# random btn
+Кликните по солнцу и получите  каверзный вопрос
 
 ## Project setup
 ```
